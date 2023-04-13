@@ -1,0 +1,7 @@
+ {
+    "identityMetadata": "https://login.microsoftonline.com/common/v2.0/.well-known/openid-configuration",
+    "clientID": "591701bd-003d-4ac8-a675-c2dcc49b7254",
+    "validateIssuer": false,
+    "loggingLevel":"info",
+    "passReqToCallback": false
+}
